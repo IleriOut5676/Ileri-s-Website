@@ -24,7 +24,7 @@ if (yearElement) {
 // Becomes:
 // 27821234567
 
-const WHATSAPP_NUMBER = "YOUR_WHATSAPP_NUMBER";
+const WHATSAPP_NUMBER = "27720388868";
 
 
 // ================= WHATSAPP BUTTONS =================
