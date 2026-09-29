@@ -1,5 +1,5 @@
 const WHATSAPP_NUMBER = "27720388868";
-const BUSINESS_EMAIL = "YOUR_EMAIL@example.com";
+const BUSINESS_EMAIL = "PreciousMajekodunmiexcel@gmail.com";
 
 document.addEventListener("DOMContentLoaded", function () {
     const yearElement = document.getElementById("year");
